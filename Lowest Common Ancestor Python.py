@@ -14,7 +14,7 @@ class Node:
 # exists otherwise false
 def findPath( root, path, k):
 
-	# Baes Case
+	# Base Case
 	if root is None:
 		return False
 
